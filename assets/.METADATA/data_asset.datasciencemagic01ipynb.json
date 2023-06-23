@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "name": "datascience_magic_01.ipynb",
+    "asset_type": "data_asset",
+    "origin_country": "us",
+    "asset_category": "USER",
+    "created_at": "2023-06-22T04:02:52Z",
+    "created": 1687406572595,
+    "asset_id": "data_asset.datasciencemagic01ipynb",
+    "asset_attributes": [
+      "data_asset"
+    ]
+  },
+  "entity": {
+    "data_asset": {
+      "dataset": false,
+      "mime_type": "application/octet-stream"
+    }
+  },
+  "attachments": [
+    {
+      "asset_type": "data_asset",
+      "name": "datascience_magic_01.ipynb",
+      "mime": "application/octet-stream",
+      "object_key": "../datascience_magic_01.ipynb",
+      "object_key_is_read_only": true,
+      "created_at": "2023-06-22T04:02:52Z",
+      "id": "a564bb85-24df-49ab-8583-0a4d008a833a",
+      "is_managed": false,
+      "is_referenced": true,
+      "is_remote": false
+    }
+  ]
+}
